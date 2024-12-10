@@ -1,2 +1,5 @@
 # APIsAndServices
-This repository provides code I have created around SOAP, and RESTful APIs using WCF
+From data access to controllers a proper API should be flexible and built for upgrades and adaptations so that they can meet 
+today's changing business environment with the least amount of effort. The following is an example of the typical Architecture I generally use. 
+### Example Architecture
+![Example API Architecture](https://github.com/makalkas/APIsAndServices/blob/main/Images/2024-12-10%2010_52_09-API%20Architecture.png)
