@@ -1,4 +1,4 @@
-# APIsAndServices
+# APIs And Services
 From data access to controllers a proper API should be flexible and built for upgrades and adaptations so that they can meet 
 today's changing business environment with the least amount of effort. The following is an example of the typical Architecture I generally use. 
 ### Example Architecture
